@@ -1,4 +1,4 @@
-///Q56: Read and print elements of a one-dimensional array.
+//Q56: Read and print elements of a one-dimensional array.
 #include <stdio.h>
 int main() {
     int n;
@@ -16,3 +16,4 @@ int main() {
     printf("\n");
     return 0;
 }
+
