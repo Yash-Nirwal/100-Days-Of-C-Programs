@@ -1,4 +1,4 @@
-///Q41: Write a program to swap the first and last digit of a number.
+//Q41: Write a program to swap the first and last digit of a number.
 #include <stdio.h>
 int swapFirstLast(int num) {
     int temp = num;
@@ -28,4 +28,5 @@ int main() {
     printf("Swapped number: %d\n", result);
     return 0;
 }
+
 
