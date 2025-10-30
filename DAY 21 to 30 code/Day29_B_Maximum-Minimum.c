@@ -1,4 +1,4 @@
-///Q58: Find the maximum and minimum element in an array.
+//Q58: Find the maximum and minimum element in an array.
 #include <stdio.h>
 int main() {
     int n;
@@ -19,3 +19,4 @@ int main() {
     printf("Max=%d, Min=%d\n", max, min);
     return 0;
 }
+
