@@ -1,4 +1,4 @@
-///Q42: Write a program to check if a number is a perfect number.
+//Q42: Write a program to check if a number is a perfect number.
 #include <stdio.h>
 int isPerfect(int num) {
     int sum = 0;
@@ -21,4 +21,5 @@ int main() {
 
     return 0;
 }
+
 
