@@ -1,4 +1,4 @@
-///Q55: Write a program to print all the prime numbers from 1 to n.
+//Q55: Write a program to print all the prime numbers from 1 to n.
 #include <stdio.h>
 int isPrime(int num) {
     if (num < 2)
@@ -21,3 +21,4 @@ int main() {
     printf("\n");
     return 0;
 }
+
